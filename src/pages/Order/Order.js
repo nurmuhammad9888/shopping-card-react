@@ -8,7 +8,6 @@ export const Order = () => {
 	const [data, setData] = useState([]);
     const [change, setChange] = React.useState(false);
 
-
 	useEffect(() => {
 		axios
 			.get('http://localhost:8080/orders')

@@ -39,7 +39,7 @@ const onSubmit = (data) =>{
         if(data.status === 201){
             setToken(data.data.accessToken)
             setUser(data.data.user)
-            navigate("/admin")
+            navigate("/")
             console.log(data);
         }
     }).catch(error => console.log(error))

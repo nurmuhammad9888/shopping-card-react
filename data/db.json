@@ -68,6 +68,13 @@
       "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzByPmbX9d-vR_LrhVQcKJyI0IwqUuyGVVA&usqp=CAU",
       "product_category": 4,
       "id": 6
+    },
+    {
+      "product_name": "Vivo 32 max pro",
+      "product_price": "450",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSRjWihkmCgCBvkBVXaspklabdNmgbEp8Hjg&usqp=CAU",
+      "product_category": 3,
+      "id": 7
     }
   ],
   "orders": [
